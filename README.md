@@ -32,6 +32,7 @@ The [TESS dataset](https://tspace.library.utoronto.ca/handle/1807/24487) contain
 - **Disgust**
 - **Fear**
 - **Happiness**
+- **Pleasant Surprise**
 - **Sadness**
 - **Neutrality**
 
